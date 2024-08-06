@@ -32,8 +32,16 @@ I'm a versatile developer specializing in Android, Flutter, and Node.js. With a 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binbenc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbenc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binbenc&theme=tokyonight" alt="binbenc's streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binbenc&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbenc&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binbenc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 ## 🏆 GitHub Trophies
