@@ -47,9 +47,8 @@ I'm a versatile developer specializing in Android, Flutter, and Node.js. With a 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binbenc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="binbenc's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=binbenc&theme=flat&no-frame=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&bg-color=00000000&title-color=2F80ED&text-color=4F5D95" alt="binbenc's trophies" />
 </div>
-
 <!--
 **binbenc/binbenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
