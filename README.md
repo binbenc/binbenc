@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Enthusiast;Node.js+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate mobile developer specializing in Android and Flutter. With a strong foundation in Kotlin, Java, Dart, and JavaScript, I love creating intuitive and efficient mobile applications.
+I'm a versatile developer specializing in Android, Flutter, and Node.js. With a strong foundation in Kotlin, Java, Dart, and JavaScript, I love creating efficient and scalable applications across mobile and server-side platforms.
 
-- 🔭 I'm currently working on mobile developer
+- 🔭 I'm currently working on a mobile developer
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about Android, Flutter, or mobile development in general
 
@@ -26,6 +26,8 @@ I'm a passionate mobile developer specializing in Android and Flutter. With a st
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
