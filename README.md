@@ -16,7 +16,7 @@ I'm a versatile developer specializing in Android, Flutter, and Node.js. With a 
 
 - 🔭 I'm currently working on a mobile developer
 - 🌱 I'm always learning and exploring new technologies
-- 💬 Ask me about Android, Flutter, or mobile development in general
+- 💬 Ask me about Android, Flutter, Node.js, or full-stack mobile development
 
 ## 💻 Tech Stack
 
