@@ -32,23 +32,15 @@ I'm a versatile developer specializing in Android, Flutter, and Node.js. With a 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binbenc&theme=tokyonight" alt="binbenc's streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binbenc&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbenc&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=binbenc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binbenc&theme=flat&no-frame=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&bg-color=00000000&title-color=2F80ED&text-color=4F5D95" alt="binbenc's trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binbenc&theme=nord&column=7" />
+</p>
 <!--
 **binbenc/binbenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
