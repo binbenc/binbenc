@@ -14,7 +14,7 @@
 
 I'm a passionate mobile developer specializing in Android and Flutter. With a strong foundation in Kotlin, Java, Dart, and JavaScript, I love creating intuitive and efficient mobile applications.
 
-- 🔭 I'm currently working on [Current Project]
+- 🔭 I'm currently working on mobile developer
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about Android, Flutter, or mobile development in general
 
