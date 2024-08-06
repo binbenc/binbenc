@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Flutter+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
